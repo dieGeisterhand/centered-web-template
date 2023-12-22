@@ -1,0 +1,33 @@
+p {
+ 
+}
+
+a{
+
+}
+
+
+body {
+  background-color: rgb(255, 255, 255);
+  margin: 25px;
+  margin-top: 0px;
+}
+
+footer {
+  margin-top: 35px;
+  text-align: center;
+}
+
+/*adjust as needed for width*/
+.website-container {
+  max-width: 1200px; 
+  width: 100%; 
+  margin: 0 auto; 
+}
+
+.signature {
+  color: black;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
